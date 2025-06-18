@@ -1,3 +1,3 @@
-#prama once
+#pragma once
 
 void login();
